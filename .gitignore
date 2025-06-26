@@ -1,0 +1,14 @@
+Python
+pycache/ *.pyc *.pyo *.pyd *.env .env .venv venv/ ENV/ env/ *.sqlite3 *.db
+
+VSCode
+.vscode/
+
+Model & Data
+vit_model_40epoch.pth classification_history.db
+
+OS
+.DS_Store Thumbs.db
+
+PDF/CSV Laporan
+*.pdf *.csv
