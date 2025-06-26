@@ -38,7 +38,7 @@ Catatan
 Jika menggunakan WeasyPrint untuk PDF, pastikan dependensi sistem (GTK, Cairo, Pango) sudah terinstall.
 Untuk deployment di jaringan, pastikan port 5001 (ViT) dan 5002 (Flask utama) terbuka di firewall.
 
-📁 Struktur Folder (Contoh)
+📁 Struktur Folder 
 vision_transformer_project/
 │
 ├── app.py                      # Aplikasi utama Flask (dashboard, riwayat, SPK, endpoint ESP32-CAM)
