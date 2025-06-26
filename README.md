@@ -16,9 +16,11 @@ Aplikasi ini melakukan klasifikasi gambar sampah menggunakan Vision Transformer 
 ```bash
 pip install -r requirements.txt
 2. Jalankan Server ViT (Model)
+python [vit_server.py](http://_vscodecontentref_/1)
 Pastikan file model (vit_model_40epoch.pth) ada di folder yang sama.
 
 3. Jalankan Aplikasi Utama Flask
+python [app.py](http://_vscodecontentref_/2)
 4. Akses Dashboard
 Buka browser ke:
 
